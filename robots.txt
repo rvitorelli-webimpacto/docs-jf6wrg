@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-i9rj4j.leogaming.cfd/sitemap.xml
